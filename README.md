@@ -151,6 +151,10 @@ InterviewGuide 是一个集成了简历分析、模拟面试和知识库管理�
 
 ### 知识库
 
+知识库管理页面原型图（本地）：
+
+![](frontend/public/prototypes/knowledgebase-manage-prototype.svg)
+
 知识库管理：
 
 ![](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-knowledge-base-management.png)
